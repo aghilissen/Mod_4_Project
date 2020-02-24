@@ -1,16 +1,16 @@
 # Ranked Measure Data
-Premature death
+**Premature death**
 Poor or fair health
 Poor physical health days
-Poor mental health days
+**Poor mental health days**
 Low birthweight
 Adult smoking
-**Adult obesity**
+Adult obesity
 Food environment index
-Physical inactivity
+**Physical inactivity**
 Access to exercise opportunities
-Excessive drinking
-Alcohol-impaired driving deaths
+**Excessive drinking**
+**Alcohol-impaired driving deaths**
 Sexually transmitted infections
 Teen births
 **Uninsured**
@@ -20,20 +20,20 @@ Mental health providers
 Preventable hospital stays
 Mammography screening
 Flu vaccinations
-**High school graduation**
-**Some college**
-**Unemployment**
+High school graduation
+Some college
+Unemployment
 Children in poverty
-**Income inequality**
+Income inequality
 Children in single-parent households
 Social associations
 Violent crime
 Injury deaths
-Air pollution - particulate matter
+**Air pollution - particulate matter**
 Drinking water violations
 Severe housing problems
-Driving alone to work
-Long commute - driving alone
+**Driving alone to work**
+**Long commute - driving alone**
 # Additional Measure Data
 Life expectancy
 Premature age-adjusted mortality
@@ -46,7 +46,7 @@ HIV prevalence
 Food insecurity
 Limited access to healthy foods
 Drug overdose deaths
-Motor vehicle crash deaths
+**Motor vehicle crash deaths**
 Insufficient sleep
 Uninsured adults
 Uninsured children
@@ -54,10 +54,10 @@ Other primary care providers
 Disconnected youth
 **Median household income**
 Children eligible for free or reduced price lunch
-**Residential segregation - black/white**
-**Residential segregation - non-white/white**
+Residential segregation - black/white
+Residential segregation - non-white/white
 Homicides
 Firearm fatalities
-**Homeownership**
+Homeownership
 Severe housing cost burden
 **Demographics**
