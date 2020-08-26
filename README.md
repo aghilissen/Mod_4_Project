@@ -1,8 +1,6 @@
-# Mod_4_Project
-
-
+# Motor Vehicle Death Analysis - What are the factors contributing to fatal car crashes in the US?
+For this project, we are going to use the CRoss Industry Standard Process for Data Mining:
 > ## The CRISP-DM Framework
-> 
 > - Business Problem: Reduce Motor Vehicle Deaths in the US using Socio Economic Data
 > - Data Understanding: What the data set is
 > - Data Preparation: All Data Cleaning, inc treatment of missing Data, NaNs, zeros, transforms
